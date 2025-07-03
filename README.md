@@ -42,6 +42,12 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
         <span>Hash-it →</span>
       </a>
     </td>
+    <td style="text-align: center; padding: 10px; border: none;">
+      <a href="https://github.com/gcleaner/gcleaner-python/tree/gtk4" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/gcleaner/gcleaner.github.io/blob/master/img/gcleaner.png?raw=true" alt="GCleaner" width="64" height="64"><br>
+        <span>GCleaner →</span>
+      </a>
+    </td>
   </tr>
 </table>
 
