@@ -1,7 +1,7 @@
 <p>
     <!-- FOLLOWRERS -->
     <a href="https://github.com/libredeb?tab=followers">
-        <img src="https://img.shields.io/github/followers/lozanotux?style=social"/>
+        <img src="https://img.shields.io/github/followers/libredeb?style=social"/>
     </a>
     <!-- OPEN SOURCE <3 -->
     <a href="https://github.com/libredeb?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
