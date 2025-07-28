@@ -32,7 +32,7 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/lightpad" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/libredeb/lightpad/fb07e9c10587dd500ee0a6e9659a03b66fda8c1d/data/icons/64/lightpad.svg" alt="LightPad" width="64" height="64"><br>
+        <img src="https://raw.githubusercontent.com/libredeb/lightpad/refs/heads/master/data/icons/64/lightpad.svg" alt="LightPad" width="64" height="64"><br>
         <span>LightPad →</span>
       </a>
     </td>
