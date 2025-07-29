@@ -38,7 +38,7 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/hash-it" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/libredeb/hash-it/refs/heads/master/data/icons/64/hashit.svg" alt="Hash-it" width="64" height="64"><br>
+        <img src="https://raw.githubusercontent.com/libredeb/hash-it/refs/heads/main/data/icons/64/hashit.svg" alt="Hash-it" width="64" height="64"><br>
         <span>Hash-it →</span>
       </a>
     </td>
