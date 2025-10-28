@@ -32,25 +32,25 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/lightpad" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/libredeb/lightpad/refs/heads/master/data/icons/64/lightpad.svg" alt="LightPad" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/lightpad@master/data/icons/64/lightpad.svg" alt="LightPad" width="64" height="64"><br>
         <span>LightPad →</span>
       </a>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/hash-it" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/libredeb/hash-it/refs/heads/main/data/icons/64/hashit.svg" alt="Hash-it" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/hash-it@main/data/icons/64/hashit.svg" alt="Hash-it" width="64" height="64"><br>
         <span>Hash-it →</span>
       </a>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/vinyl" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/libredeb/vinyl/refs/heads/main/data/icons/128/vinyl.svg" alt="Vinyl" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/vinyl@main/data/icons/128/vinyl.svg" alt="Vinyl" width="64" height="64"><br>
         <span>Vinyl →</span>
       </a>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/gcleaner/gcleaner-python/tree/gtk4" style="text-decoration: none; color: inherit;">
-        <img src="https://github.com/gcleaner/gcleaner.github.io/blob/master/img/gcleaner.png?raw=true" alt="GCleaner" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/gcleaner/gcleaner.github.io@master/img/gcleaner.png" alt="GCleaner" width="64" height="64"><br>
         <span>GCleaner →</span>
       </a>
     </td>
