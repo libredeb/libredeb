@@ -44,7 +44,7 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/libredeb/vinyl" style="text-decoration: none; color: inherit;">
-        <img src="https://cdn.jsdelivr.net/gh/libredeb/vinyl@main/data/icons/128/vinyl.svg" alt="Vinyl" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/vinyl@main/data/icons/64/vinyl.svg" alt="Vinyl" width="64" height="64"><br>
         <span>Vinyl →</span>
       </a>
     </td>
