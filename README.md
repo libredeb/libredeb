@@ -54,6 +54,12 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
         <span>GCleaner →</span>
       </a>
     </td>
+    <td style="text-align: center; padding: 10px; border: none;">
+      <a href="https://github.com/libredeb/flying-speed" style="text-decoration: none; color: inherit;">
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/flying-speed@main/assets/icon.png" alt="Flying Speed" width="64" height="64"><br>
+        <span>Flying Speed →</span>
+      </a>
+    </td>
   </tr>
 </table>
 
