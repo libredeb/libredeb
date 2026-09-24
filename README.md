@@ -60,6 +60,12 @@ I’m passionate about cutting-edge technologies and constantly exploring new wa
         <span>Flying Speed →</span>
       </a>
     </td>
+    <td style="text-align: center; padding: 10px; border: none;">
+      <a href="https://github.com/libredeb/alpine-gen" style="text-decoration: none; color: inherit;">
+        <img src="https://cdn.jsdelivr.net/gh/libredeb/alpine-gen@main/docs/imgs/logo.png" alt="alpine-gen" width="64" height="64"><br>
+        <span>alpine-gen →</span>
+      </a>
+    </td>
   </tr>
 </table>
 
